@@ -45,17 +45,17 @@ class Collage extends React.Component {
                         <div className="row">
                             <div className="collage-image col-lg-4">
                                 <DraggableContainer>
-                                    <img className="collage-layout img-fluid" src="https://i.imgur.com/2fCAwFr.jpg" alt="collage 1" />
+                                    <img className="collage-layout img-fluid" src="http://rikki.cubescrawls.com/Images/Combat%20Islamophobia.png" alt="collage 1" />
                                 </DraggableContainer>
                             </div>
                             <div className="collage-image col-lg-4">
                                 <DraggableContainer>
-                                    <img className="collage-layout img-fluid" src="https://i.imgur.com/kPvKSmi.jpg" alt="collage 2" />
+                                    <img className="collage-layout img-fluid" src="http://rikki.cubescrawls.com/Images/Eliminate%20Bias" alt="collage 2" />
                                 </DraggableContainer>
                             </div>
                             <div className="collage-image col-lg-4">
                                 <DraggableContainer>
-                                    <img className="collage-layout img-fluid" src="https://i.imgur.com/krCI7iM.jpg" alt="collage 3" />
+                                    <img className="collage-layout img-fluid" src="http://rikki.cubescrawls.com/Images/Environmental%20Protection" alt="collage 3" />
                                 </DraggableContainer>
                             </div>
                         </div>
@@ -64,17 +64,17 @@ class Collage extends React.Component {
                         <div className="row">
                             <div className="collage-image col-lg-4">
                                 <DraggableContainer>
-                                    <img className="collage-layout img-fluid" src="https://i.imgur.com/nYR5uCB.jpg" alt="collage 4" />
+                                    <img className="collage-layout img-fluid" src="http://rikki.cubescrawls.com/Images/Progressive" alt="collage 4" />
                                 </DraggableContainer>
                             </div>
                             <div className="collage-image col-lg-4">
                                 <DraggableContainer>
-                                    <img className="collage-layout img-fluid" src="https://i.imgur.com/ROyXWl5.jpg" alt="collage 5" />
+                                    <img className="collage-layout img-fluid" src="http://rikki.cubescrawls.com/Images/Racial%20Equality" alt="collage 5" />
                                 </DraggableContainer>
                             </div>
                             <div className="collage-image col-lg-4">
                                 <DraggableContainer>
-                                    <img className="collage-layout img-fluid" src="https://i.imgur.com/gnANVZO.jpg" alt="collage 6" />
+                                    <img className="collage-layout img-fluid" src="http://rikki.cubescrawls.com/Images/Supportive" alt="collage 6" />
                                 </DraggableContainer>
                             </div>
                         </div>
@@ -83,17 +83,17 @@ class Collage extends React.Component {
                         <div className="row">
                             <div className="collage-image col-lg-4">
                                 <DraggableContainer>
-                                    <img className="collage-layout img-fluid" src="https://i.imgur.com/9zGeotG.jpg" alt="collage 7" />
+                                    <img className="collage-layout img-fluid" src="http://rikki.cubescrawls.com/Images/Voter%20Outreach" alt="collage 7" />
                                 </DraggableContainer>
                             </div>
                             <div className="collage-image col-lg-4">
                                 <DraggableContainer>
-                                    <img className="collage-layout img-fluid" src="https://i.imgur.com/R7WXT9g.jpg" alt="collage 8" />
+                                    <img className="collage-layout img-fluid" src="http://rikki.cubescrawls.com/Images/Progressive" alt="collage 8" />
                                 </DraggableContainer>
                             </div>
                             <div className="collage-image col-lg-4">
                                 <DraggableContainer>
-                                    <img className="collage-layout img-fluid" src="https://i.imgur.com/dRtxs1h.jpg" alt="collage 9" />
+                                    <img className="collage-layout img-fluid" src="http://rikki.cubescrawls.com/Images/Paid%20Sick%20Time" alt="collage 9" />
                                 </DraggableContainer>
                             </div>
                         </div>

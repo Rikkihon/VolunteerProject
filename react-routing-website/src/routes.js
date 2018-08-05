@@ -11,6 +11,7 @@ const routes = (
         <Route path="/" component={Right}>
           <Route path="about" component={About} />
           <Route path="members" component={MemberList} />
+          <Route path="Our Values" component={Collage} />
         </Route>
         <Route path="*" component={Whoops404} />
     </Router>
